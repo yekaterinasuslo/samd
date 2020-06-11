@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# STRASBOURG
 
-You can use the [editor on GitHub](https://github.com/yekaterinasuslo/samd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Julien was compelled to spend eight days in Strasbourg and tried to distract himself by thoughts of military glory and patriotic devotion. Was he in love then? he could not tell, he only felt in his tortured soul that Mathilde was the absolute mistress both of his happiness and of his imagination. He needed all the energy of his character to keep himself from sinking into despair. It was out of his power to think of anything unconnected with mademoiselle de la Mole. His ambition and his simple personal successes had formerly distracted him from the sentiments which madame de Rênal had inspired. Mathilde was all-absorbing; she loomed large over his whole future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Julien saw failure in every phase of that future. This same individual whom we remember to have been so presumptuous and haughty at Verrières, had fallen into an excess of grotesque modesty.
 
-### Markdown
+Three days ago he would only have been too pleased to have killed the abbé Castanède, and now, at Strasbourg, if a child had picked a quarrel with him he would have thought the child was in the right. In thinking again about the adversaries and enemies whom he had met in his life he always thought that he, Julien, had been in the wrong. The fact was that the same powerful imagination which had formerly been continuously employed in painting a successful future in the most brilliant colours had now been transformed into his implacable enemy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The absolute solicitude of a traveller's life increased the ascendancy of this sinister imagination. What a boon a friend would have been! But Julien said to himself, "Is there a single heart which beats with affection for me? And even if I did have a friend, would not honour enjoin me to eternal silence?"
 
-```markdown
-Syntax highlighted code block
+He was riding gloomily in the outskirts of Kehl; it is a market town on the banks of the Rhine and immortalised by Desaix and Gouvion Saint-Cyr. A German peasant showed him the little brooks, roads and islands of the Rhine, which have acquired a name through the courage of these great generals. Julien was guiding his horse with his left hand, while he held unfolded in his right the superb map which adorns the Memoirs of the Marshal Saint Cyr. A merry exclamation made him lift his head.
+![i](https://dkt6rvnu67rqj.cloudfront.net/cdn/ff/T8cy0-640W8sartvA9TWmv08NbGPFxsVvf8gFtBDE08/1577112797/public/styles/600x400/public/media/int_files/elephant_in_tanzania.jpg?h=f507d761&itok=Ei8OXcGi)
+It was the Prince Korasoff, that London friend of his, who had initiated him some months before into the elementary rules of high fatuity. Faithful to his great art, Korasoff, who had just arrived at Strasbourg, had been one hour in Kehl and had never read a single line in his whole life about the siege of 1796, began to explain it all to Julien. The German peasant looked at him in astonishment; for he knew enough French to appreciate the enormous blunders which the prince was making. Julien was a thousand leagues away from the peasant's thoughts. He was looking in astonishment at the handsome young man and admiring his grace in sitting a horse.
 
-# Header 1
-## Header 2
-### Header 3
+"What a lucky temperament," he said to himself, "and how his trousers suit him and how elegantly his hair is cut! Alas, if I had been like him, it might have been that she would not have come to dislike me after loving me for three days."
 
-- Bulleted
-- List
+When the prince had finished his siege of Kehl, he said to Julien, "You look like a Trappist, you are carrying to excess that principle of gravity which I enjoined upon you in London. A melancholy manner cannot be good form. What is wanted is an air of boredom. If you are melancholy, it is because you lack something, because you have failed in something."
 
-1. Numbered
-2. List
+"That means showing one's own inferiority; if, on the other hand you are bored, it is only what has made an unsuccessful attempt to please you, which is inferior. So realise, my dear friend, the enormity of your mistake."
 
-**Bold** and _Italic_ and `Code` text
+Julien tossed a crown to the gaping peasant who was listening to them.
 
-[Link](url) and ![Image](src)
-```
+"Good," said the prince, "that shows grace and a noble disdain, very good!" And he put his horse to the gallop. Full of a stupid admiration, Julien followed him.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"Ah! if I have been like that, she would not have preferred Croisenois to me!" The more his reason was offended by the grotesque affectations of the prince the more he despised himself for not having them. It was impossible for self-disgust to be carried further.
 
-### Jekyll Themes
+The prince still finding him distinctly melancholy, said to him as they re-entered Strasbourg, "Come, my dear fellow, have you lost all your money, or perhaps you are in love with some little actress.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yekaterinasuslo/samd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"The Russians copy French manners, but always at an interval of fifty years. They have now reached the age of Louis XV."
 
-### Support or Contact
+These jests about love brought the tears to Julien's eyes. "Why should I not consult this charming man," he suddenly said to himself.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"Well, yes, my dear friend," he said to the prince, "you see in me a man who is very much in love and jilted into the bargain. A charming woman who lives in a neighbouring town has left me stranded here after three passionate days, and the change kills me."
+
+Using fictitious names, he described to the prince Mathilde's conduct and character.
+
+"You need not finish," said Korasoff. "In order to give you confidence in your doctor, I will finish the story you have confided to me. This young woman's husband enjoys an enormous income, or even more probably, she belongs herself to the high nobility of the district. She must be proud about something."
+
+Julien nodded his head, he had no longer the courage to speak. "Very good," said the prince, "here are three fairly bitter pills that you will take without delay.
+
+"1. See madame ——. What is her name, any way?"
+
+"Madame de Dubois."
+
+"What a name!" said the prince bursting into laughter. "But forgive me, you find it sublime. Your tactics must be to see Madame de Dubois every day; above all do not appear to be cold and piqued. Remember the great principle of your century: be the opposite of what is expected. Be exactly as you were the week before you were honoured by her favours."
+
+"Ah! I was calm enough then," exclaimed Julien in despair, "I thought I was taking pity on her...."
+
+"The moth is burning itself at the candle," continued the prince using a metaphor as old as the world.
+
+"1. You will see her every day.
+
+"2. You will pay court to a woman in her own set, but without manifesting a passion, do you understand? I do not disguise from you that your role is difficult; you are playing a part, and if she realises you are playing it you are lost."
+
+"She has so much intelligence and I have so little, I shall be lost," said Julien sadly.
+
+"No, you are only more in love than I thought. Madame de Dubois is preoccupied with herself as are all women who have been favoured by heaven either with too much pedigree or too much money. She contemplates herself instead of contemplating you, consequently she does not know you. During the two or three fits of love into which she managed to work herself for your especial benefit, she saw in you the hero of her dreams, and not the man you really are.
+
+"But, deuce take it, this is elementary, my dear Sorel, are you an absolute novice?
+
+"Oddslife! Let us go into this shop. Look at that charming black cravat, one would say it was made by John Anderson of Burlington Street. Be kind enough to take it and throw far away that awful black cord which you are wearing round your neck."
+
+"And now," continued the prince as they came out of the shop of the first hosier of Strasbourg, "what is the society in which madame de Dubois lives? Great God, what a name, don't be angry, my dear Sorel, I can't help it.... Now, whom are you going to pay court to?"
+
+"To an absolute prude, the daughter of an immensely rich stocking-merchant. She has the finest eyes in the world and they please me infinitely; she doubtless holds the highest place in the society of the district, but in the midst of all her greatness she blushes and becomes positively confused if anyone starts talking about trade or shops. And, unfortunately, her father was one of the best known merchants in Strasbourg."
+
+"So," said the prince with a laugh, "you are sure that when one talks about trade your fair lady thinks about herself and not about you. This silly weakness is divine and extremely useful, it will prevent you from yielding to a single moment's folly when near her sparkling eyes. Success is assured."
+
+Julien was thinking of madame the maréchale de Fervaques who often came to the Hôtel de la Mole. She was a beautiful foreigner who had married the maréchal a year before his death. The one object of her whole life seemed to be to make people forget that she was the daughter of a manufacturer. In order to cut some figure in Paris she had placed herself at the head of the party of piety.
+
+Julien sincerely admired the prince; what would he not have given to have possessed his affectations! The conversation between the two friends was interminable. Korasoff was delighted: No Frenchman had ever listened to him for so long. "So I have succeeded at last," said the prince to himself complacently, "in getting a proper hearing and that too through giving lessons to my master."
+
+"So we are quite agreed," he repeated to Julien for the tenth time. "When you talk to the young beauty, I mean the daughter of the Strasbourg stocking merchant in the presence of madame de Dubois, not a trace of passion. But on the other hand be ardently passionate when you write. Reading a well-written love-letter is a prude's supremest pleasure. It is a moment of relaxation. She leaves off posing and dares to listen to her own heart; consequently two letters a day."
